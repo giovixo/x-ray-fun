@@ -7,7 +7,7 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 ### Setting up
 
     npm install 
-    node index.js
+    node nodeServer.js
 
 Go to [localhost:1337](http://localhost:1337).
 
