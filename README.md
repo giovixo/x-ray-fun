@@ -6,6 +6,8 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 
 ### Setting up
 
+Make sure you have node installed in your pc
+
     npm install 
     node nodeServer.js
 
