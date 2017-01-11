@@ -1,0 +1,9 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "jsonfile": "^2.4.0"
+  }
+}
