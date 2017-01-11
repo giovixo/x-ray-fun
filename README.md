@@ -8,7 +8,7 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 
 Make sure you have node installed in your pc
 
-    download the event [files](https://owncloud.iasfbo.inaf.it/public.php?service=files&t=eac10983b7bad86b98e466bafa73d324) into the "data" directory
+    download the Monte Carlo event (see below) into the "data" directory
     npm install
     node nodeServer.js
 
