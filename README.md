@@ -6,7 +6,7 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 
 ### Setting up
 
-Make sure you have node installed in your pc
+Make sure you have [node.js](https://nodejs.org/en/) installed in your pc
 
     download the Monte Carlo event (see below) into the "data" directory
     npm install
