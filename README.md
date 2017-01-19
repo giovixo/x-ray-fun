@@ -4,7 +4,7 @@ This is a web interface to Monte Carlo event file for a super simple X- and gamm
 
 The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenergetic photon beam.  The results are plotted using [Plotly.js](https://plot.ly/javascript/).
 
-##>Click here to see on web [X-ray-fun](http://giove.iasfbo.inaf.it:1337/).
+#>Click [here](http://giove.iasfbo.inaf.it:1337/) to see on the web.
 
 ### Setting up
 
