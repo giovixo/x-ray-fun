@@ -6,6 +6,11 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 
 >Click [here](http://giove.iasfbo.inaf.it:1337/) to see a demo on the web.
 
+### Contributors ###
+
+* G. De Cesare - decesare.giovanni  at gmail.com
+* Valentina Fioretti 
+
 ### Setting up
 
 Make sure you have [node.js](https://nodejs.org/en/) installed in your pc
