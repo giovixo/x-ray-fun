@@ -35,7 +35,7 @@ This software is licensed under the MIT License.
 
 >The MIT License (MIT)
 >
->Copyright (c) 2017: Giovanni De Cesare (decesare at iasfbo.inaf.it) IASF Bologna - INAF
+>Copyright (c) 2017 Giovanni De Cesare IASF Bologna - INAF
 
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
