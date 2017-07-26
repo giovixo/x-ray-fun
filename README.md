@@ -1,6 +1,6 @@
 # x-ray-fun
 
-This is a web interface to Monte Carlo event file for a super simple X- and gamma-ray detector.
+A web interface to Monte Carlo event file for a super simple X- and gamma-ray detector.
 
 The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenergetic photon beam.  The results are plotted using [Plotly.js](https://plot.ly/javascript/).
 
