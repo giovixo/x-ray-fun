@@ -4,7 +4,7 @@ A web interface to Monte Carlo event file for a super simple X- and gamma-ray de
 
 The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenergetic photon beam.  The results are plotted using [Plotly.js](https://plot.ly/javascript/).
 
->Click [here](http://giove.iasfbo.inaf.it:1337/) to see a demo on the web.
+>Click [here](http://giove.iasfbo.inaf.it) to see a demo on the web.
 
 ### Contributors ###
 
@@ -19,7 +19,7 @@ Make sure you have [node.js](https://nodejs.org/en/) installed in your pc
     npm install
     node nodeServer.js
 
-Go to [localhost:1337](http://localhost).
+Go to [localhost:1337](http://localhost:1337).
 
 You should see:
 
