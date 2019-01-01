@@ -9,7 +9,7 @@ The mass model is a box of CdZnTe, or Silicon, or CsI. The source is a monoenerg
 ### Contributors ###
 
 * G. De Cesare - decesare.giovanni  at gmail.com
-* Valentina Fioretti 
+* Valentina Fioretti
 
 ### Setting up
 
@@ -19,7 +19,7 @@ Make sure you have [node.js](https://nodejs.org/en/) installed in your pc
     npm install
     node nodeServer.js
 
-Go to [localhost:1337](http://localhost:1337).
+Go to [localhost:1337](http://localhost).
 
 You should see:
 
